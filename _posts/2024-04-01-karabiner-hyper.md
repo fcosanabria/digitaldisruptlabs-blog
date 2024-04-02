@@ -1,9 +1,9 @@
 ---
 title: Hyperkey and Karabiner Elements - The perfect duo
 description: 
-date: 2023-04-01
-categories: Blogging
-tags: [productivity]
+date: 2024-04-01
+categories: [Blogging, Productivity]
+tags: [keyboard, software]
 ---
 
 So, for the past few years, I've been on a keyboard collecting spree. My quest for the ultimate keyboard introduced me to Karabiner Elements—a swift and seamless macOS app that lets you remap your keyboard keys no sweat. It's so slick, it feels like it's built into the OS. Having used it for ages, I've never encountered any lag or anything of the sort.
@@ -77,6 +77,8 @@ hyper - 7 : yabai -m window --space 7
 hyper - 8 : yabai -m window --space 8
 hyper - 9 : yabai -m window --space 9
 ```
+
+---
 
 # Español
 
