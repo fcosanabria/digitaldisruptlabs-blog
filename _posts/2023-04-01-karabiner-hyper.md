@@ -1,5 +1,5 @@
 ---
-title: Hyperkey and Karabiner Elements: The perfect duo
+title: Hyperkey and Karabiner Elements - The perfect duo
 description: 
 date: 2023-04-01
 categories: Blogging
