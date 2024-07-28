@@ -71,7 +71,7 @@ Spoiler alert: Kubernetes es definitivamente mucho más que una moda pasajera. H
 
 - **Compatibilidad multi-nube**: ¿AWS hoy, Google Cloud mañana y Azure la próxima semana? No hay problema. Kubernetes te permite mover tus aplicaciones de una nube a otra sin tener que reescribir todo. Como el punto anterior, la abstración que hace que su migración o adaptación sea mucho más sencilla. Esto también permite la adaptación de la nube hibrida.
 
-### 3. Escalabilidad y alta disponibilidad
+### Escalabilidad y alta disponibilidad
 
 En el mundo digital de hoy, donde un tweet puede hacer que tu aplicación pase de 100 a 1 millón de usuarios en cuestión de minutos, la escalabilidad es crucial:
 
@@ -81,7 +81,7 @@ En el mundo digital de hoy, donde un tweet puede hacer que tu aplicación pase d
 
 - **Actualizaciones sin tiempo de inactividad**: K8s permite realizar actualizaciones graduales sin interrumpir el servicio. Esto permite poder rollear nuevas versiones de manera deliberada, sin necesidad de detener el servicio. Esto se puede controlar de manera granular y con varias estrategias, pero eso es tema para otro entry.
 
-### 4. Eficiencia operativa: Automatización al rescate
+### Eficiencia operativa: Automatización al rescate
 
 Por último, pero no menos importante, Kubernetes es un maestro de la automatización:
 
